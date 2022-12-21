@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1647205490 source:e:\uni\bpe\c\laboratories\firstproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1647203254 source:e:\uni\bpe\c\laboratories\firstproject\laboratory.c
+	<stdio.h>
+	<math.h>
+
